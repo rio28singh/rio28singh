@@ -1,4 +1,5 @@
 ### Hi there 👋
+<h1 align="center">Hi 👋, I'm Roshan Singh</h1>
 # 💫 About Me:
 👯 I’m looking to collaborate on Java Projects<br>💬 Ask me about Java , Dsa , Dbms and System Design<br>🌱 Still learning<br>📫 How to reach me rs379205@gmail.com<br> <br>⚡ Fun fact I am a coder and a Gamer too<br>
 <img align="right" alt="Coding" width="400" src="https://image.lexica.art/full_jpg/5ff44423-e894-4b8a-ad47-6805fed2e0e1">
